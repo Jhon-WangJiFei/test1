@@ -1,2 +1,5 @@
 firststudy git 
 this is my first 
+
+------
+1¡¢this is first modify file
